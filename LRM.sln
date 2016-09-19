@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRM", "LRM\LRM.csproj", "{F1A6549D-2E1D-4FDF-BE81-C3AA01A9D6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMTest", "LRMTest\LRMTest.csproj", "{31C4DA23-4840-4C30-B59A-3A2A0132DE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeServer", "LRM_Pipe\PipeServer.csproj", "{410FCFE2-7C3A-4266-9ED1-20051B5237AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMHttp", "LRMHttp\LRMHttp.csproj", "{C60E4787-376A-4C2C-AAB6-8C295319007A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMSHttp", "LRMSHttp\LRMSHttp.csproj", "{0535191F-1E91-4B03-9E5D-61B09A53C2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMSHttpTesting", "LRMSHttpTesting\LRMSHttpTesting.csproj", "{9104515A-618F-45D3-BD5C-27F5AA0FE1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A6549D-2E1D-4FDF-BE81-C3AA01A9D6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A6549D-2E1D-4FDF-BE81-C3AA01A9D6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A6549D-2E1D-4FDF-BE81-C3AA01A9D6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A6549D-2E1D-4FDF-BE81-C3AA01A9D6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C4DA23-4840-4C30-B59A-3A2A0132DE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C4DA23-4840-4C30-B59A-3A2A0132DE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C4DA23-4840-4C30-B59A-3A2A0132DE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C4DA23-4840-4C30-B59A-3A2A0132DE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410FCFE2-7C3A-4266-9ED1-20051B5237AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410FCFE2-7C3A-4266-9ED1-20051B5237AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410FCFE2-7C3A-4266-9ED1-20051B5237AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410FCFE2-7C3A-4266-9ED1-20051B5237AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60E4787-376A-4C2C-AAB6-8C295319007A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60E4787-376A-4C2C-AAB6-8C295319007A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60E4787-376A-4C2C-AAB6-8C295319007A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60E4787-376A-4C2C-AAB6-8C295319007A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0535191F-1E91-4B03-9E5D-61B09A53C2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0535191F-1E91-4B03-9E5D-61B09A53C2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0535191F-1E91-4B03-9E5D-61B09A53C2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0535191F-1E91-4B03-9E5D-61B09A53C2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9104515A-618F-45D3-BD5C-27F5AA0FE1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9104515A-618F-45D3-BD5C-27F5AA0FE1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9104515A-618F-45D3-BD5C-27F5AA0FE1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9104515A-618F-45D3-BD5C-27F5AA0FE1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
